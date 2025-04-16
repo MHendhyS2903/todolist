@@ -23,3 +23,4 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 ![simulator_screenshot_F4768392-E78E-4BB2-9F0E-4A43DDA01BA7](https://github.com/user-attachments/assets/1463908d-98d2-4c72-bc77-7acba925569a)
 ![simulator_screenshot_AA1BE6CE-D9D1-4C81-A740-9A18AD11DA80](https://github.com/user-attachments/assets/b7735eee-f9e4-492d-9dd4-2c8cb5cc7494)
    ```
+![simulator_screenshot_A4BCEF88-B6A8-47C3-9347-B3B237891B19](https://github.com/user-attachments/assets/eb4e4632-54ce-4895-ae08-b6796aeebfbc)
